@@ -1,3 +1,7 @@
+> **Fork** — [![Last Commit](https://img.shields.io/github/last-commit/stussysenik/the-algorithm?style=flat-square)]()
+
+---
+
 # X's Recommendation Algorithm
 
 X's Recommendation Algorithm is a set of services and jobs that are responsible for serving feeds of posts and other content across all X product surfaces (e.g. For You Timeline, Search, Explore, Notifications). For an introduction to how the algorithm works, please refer to our [engineering blog](https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm).
